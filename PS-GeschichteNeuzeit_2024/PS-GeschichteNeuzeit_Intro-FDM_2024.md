@@ -4,9 +4,9 @@ email:    b.petersen@rz.uni-kiel.de
 version:  1.0
 language: de
 narrator: deutsch female
-title: Einführung in das Forschungsdatenmanagement
+title: Kurze Einführung in das Forschungsdatenmanagement
 
-comment: Begleitende Vorlesung im Rahmen der [Einführung in Statistisches Lernen](http://www.univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=wirtsc/instit_5/lehrst/einfhr&anonymous=1&founds=wirtsc/instit_5/lehrst/bungei,/einfhr,/pcbung,/tutori,//lehrst_1/bungzu,/pctuto_4,/semina,//zentr/mathem_3&nosearch=1&ref=main&sem=2024s&__e=834) (Sommer 2024)
+comment: Begleitende Seminarsitzung im Rahmen der Veranstaltung [Projektseminar zur Geschichte der Neuzeit: Frauengeschichte(n) in der Frühen Neuzeit digital erschließen.](http://www.univis.uni-kiel.de/form?__s=2&dsc=anew/lecture_view&lvs=philos/histor/zentr/projek_3&anonymous=1&founds=philos/histor/zentr/aufbau_0,/projek_1,/projek_3&nosearch=1&ref=main&sem=2024s&__e=864) (Sommersemester 2024)
 
 licence: cc-by
 
@@ -28,14 +28,16 @@ logo: https://github.com/RDM4CAU/Demos/raw/main/Frauenvortragsmarathon2024/image
 
 # Forschungsdatenmanagement
 
-> <big>**Kurze Einführung in das Forschungsdatenmanagement (FDM)**</big><br>
-> <big>**im Rahmen der Einführung in das Statistische Lernen**</big><br>
+> <big>**Kurze Einführung in das Forschungsdatenmanagement (FDM)**</big><br> 
+>
+>im Rahmen der Veranstaltung<br> 
+>** Projektseminar zur Geschichte der Neuzeit: Frauengeschichte(n) in der Frühen Neuzeit digital erschließen.**<br>
 >
 >***Sommersemester 2024***
 >
 > ***Britta Petersen***, [Zentrales Forschungsdatenmanagement](https://www.datamanagement.uni-kiel.de/de)
 >
-> TinyURL zu dieser Präsentation: 
+> TinyURL zu diesem Dokument: 
 
 <div style="page-break-after: always;"></div>
 
@@ -48,15 +50,15 @@ Was sind Forschungsdaten? Welche Beispiele für Forschungsdaten können Sie nenn
 ---
 **Lassen Sie uns kurz gemeinsam sammeln!**
 
-![Bild](../WiWi_ESL-2024/images/qrcode_answergarden_wiwi.png) <!-- width="250px" align="left" -->
+![Bild](../PS-GeschichteNeuzeit_2024/images/qrcode_answergarden_PS-Geschichte2024.png) <!-- width="250px" align="left" -->
 
-https://answergarden.ch/4100942
+https://answergarden.ch/4120232
 
 ********************************************************************************
 
 {{1-2}}
 ********************************************************************************
-<iframe src="https://answergarden.ch/4100942" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://answergarden.ch/4120232" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ********************************************************************************
 
@@ -85,7 +87,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 Alle Informationen, die für die wissenschaftliche Arbeit herangezogen werden, sind mit dem Begriff Forschungsdaten gemeint!
 
-![Bild](../WiWi_ESL-2024/images/forschungsdatenBSP.png) <!-- width="350px" align="right" -->
+![Bild](../PS-GeschichteNeuzeit_2024/images/forschungsdatenBSP.png) <!-- width="350px" align="right" -->
 
 - Audio- und Videoaufzeichnungen
 - Tagebücher
@@ -109,18 +111,23 @@ Alle Informationen, die für die wissenschaftliche Arbeit herangezogen werden, s
 >
 >(**forschungsdaten.info**)
 
-## Statistisches Lernen und FDM 🔗
+## (Digitale) Geschichtswissenschaften und FDM 🔗
+>**Warum stehe ich hier und "verbrauche" eine Ihrer Seminarsitzungen mit dem Thema Forschungsdatenmanagement?**
 
-Statistisches Lernen und Forschungsdatenmanagement sind zwei Bereiche, die eng miteinander verknüpft sind:
+>***Was denken Sie?*** 
+>
+>***An welchen Stellen würden Sie Verbindungen und Bezüge zwischen Ihrer wissenschaftlichen Tätigkeit in diesem Seminar und dem Themenbereich Forschungsdatenmanagement vermuten?***
 
 {{1}}
 ***********************
-**Statistisches Lernen**:
+**(Digitale) Geschichtswissenschaften**:
 
-- Statistisches Lernen beschäftigt sich mit der **Analyse von Daten** und der **Extraktion von Informationen** aus diesen.
-- Statistisches Lernen umfasst Techniken zur **Modellierung von Daten**, zur *Schätzung von Parametern* und zur *Vorhersage von zukünftigen Ereignissen*.
-- In der statistischen Lerntheorie werden **Algorithmen** entwickelt, um **aus Daten zu lernen** und **Muster zu erkennen**.
-➡️ Qualität und Integrität und die formale wie technische Zugänglichkeit von Datensätzen sind für die Entwicklung von Modellen und das Training von Algorithmen von höchster Bedeutung!
+- Historische Dokumente (Texte, Bilder, Gegenstände) sind eine äusserst bedeutende **Quelle für Forschungsdaten** in den Geisteswissenschaften.
+- Die digitalen Geschichtswissenschaften umfassen z. B. Techniken zur **Automatischen und Semi-automatischen Texterkennung** und zur **Annotation von Digitalisaten**.
+- Annotationen können die **Basis für automatisierte Verarbeitungsprozesse** bilden. 
+- Annotationen können als **Verlinkungen** zwischen digitalen Inhalten fungieren.  
+
+➡️ Qualität und Integrität sowie die formale wie technische Zugänglichkeit von sowohl physischen Objekten wie entsprechenden Digitalisaten sind für die Analyse- und Visualisierungsprozesse von hoher Bedeutung!
 
 ***********************
 
@@ -128,11 +135,11 @@ Statistisches Lernen und Forschungsdatenmanagement sind zwei Bereiche, die eng m
 ***********************
 **Forschungsdatenmanagement**:
 
-- FDM beschäftigt sich mit Fragen zur Organisation, Erhebnung, Dokumentation, Speicherung, Sicherung und den Zugriff auf Forschungsdaten.
-- FDM hat zum Ziel, dass Daten korrekt und nachvollziehbar sind, um die Reproduzierbarkeit von Forschungsergebnissen zu gewährleisten.
-- FDM befasst sich auch mit Fragen zum Datenschutz und Datenzugriffsrichtlinien, Metadaten, der langfristigen Archivierung und ethischen Fragestellungen im Umgang mit Forschungsdaten.
+- FDM beschäftigt sich mit Fragen zur **Organisation**, **Erhebnung**, **Dokumentation**, **Speicherung**, **Sicherung** und den **Zugriff** auf Forschungsdaten.
+- FDM hat zum **Ziel**, dass Daten **korrekt** und **nachvollziehbar** sind, um die **Reproduzierbarkeit** von Forschungsergebnissen zu gewährleisten.
+- FDM befasst sich auch mit Fragen zum Datenschutz und Datenzugriffsrichtlinien, Standardisierungen (z. B. von Metadaten), der langfristigen Archivierung und ethischen Fragestellungen im Umgang mit Forschungsdaten.
 
-➡️ Gutes FDM trägt entscheidend zu Qualität und Integrität von Forschungsdaten sowie zu formaler und technischer Zugänglichkeit bei.
+➡️ Gutes FDM trägt entscheidend zu Qualität, Integrität und Nachvollziehbarkeit von Forschungsdaten sowie zu formaler und technischer Zugänglichkeit bei.
 
 ***********************
 
@@ -146,19 +153,26 @@ Denken Sie in allen Phasen Ihrer wissenschaftlichen Tätigkeit daran, sorgsam un
 
 Überlegen Sie immer auch, welche Voraussetzungen für das Arbeiten in den folgenden Phasen der Arbeit nötig sind. 
 
-![Bild](../WiWi_ESL-2024/images/FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen") <!-- width="550px" align="center" -->
+![Bild](../PS-GeschichteNeuzeit_2024/images/FDM_Zyklus_klein_ohneText.jpg "Illustration: Cleo Michelsen") <!-- width="550px" align="center" -->
 ********************************************************************************
 
 {{1-2}}
 ********************************************************************************
-![Bild](../WiWi_ESL-2024/images/Planung_fdm-zyklus_2022.png) <!-- width="250px" align="right" -->
+![Bild](../PS-GeschichteNeuzeit_2024/images/Planung_fdm-zyklus_2022.png) <!-- width="250px" align="right" -->
 
 **Planung**:
 
-- Werden Daten wiederverwendet? Wie liegen diese vor? Welche Nutzungsbedingungen liegen vor?
+- Werden Daten wiederverwendet? 
+
+  - Wie liegen diese vor? 
+  - Welche Nutzungsbedingungen oder Zugriffsregeln liegen vor?
+
 - Auf welche Weise entstehen neue Daten?
+
+  - Welche Geräte und/oder Software müssen eingeplant werden?
+
 - Welche Datentypen, im Sinne von Datenformaten (z. B. Bilddaten, Textdaten oder Messdaten in Tabellen) entstehen?
-- Welche Analysen sind geplant?
+- Welche Analysen sind geplant? Welche Software ist hierfür nötig?
 - Welches Datenvolumen ist zu erwarten?
 - Welche Speichermöglichkeiten kommen in Betracht?
 - Welche rechtlichen und ethischen Aspekte müssen berücksichtigt werden?
@@ -168,22 +182,22 @@ Denken Sie in allen Phasen Ihrer wissenschaftlichen Tätigkeit daran, sorgsam un
 
 {{2-3}}
 ********************************************************************************
-![Bild](../WiWi_ESL-2024/images/erhebung-analyse_fdm-zyklus_2022.png) <!-- width="250px" align="right" -->
+![Bild](../PS-GeschichteNeuzeit_2024/images/erhebung-analyse_fdm-zyklus_2022.png) <!-- width="250px" align="right" -->
 
 **Erhebung und Analyse**:
 
+- Welche digitalen Methoden und Werkzeuge (Software) werden zur Erhebung und zur Analyse der Daten genutzt?
 - Auf welche Weise werden die Daten gespeichert und gesichert?
 - Wie wird die Sicherheit sensibler Daten gewährleistet (Zugriffs- und Nutzungsverwaltung)?
-- Welche Ansätze sidn geeignet, Daten nachvollziehbar zu dokumentieren?
+- Welche Ansätze werden verfolgt, um Daten nachvollziehbar zu dokumentieren?
 - Welche Maßnahmen werden getroffen, um eine hohe Qualität der Daten zu gewährleisten?
-- Welche digitalen Methoden und Werkzeuge (Software) werden zur Analyse der Daten genutzt?
 
 ********************************************************************************
 
 {{3-4}}
 ********************************************************************************
 
-![Bild](../WiWi_ESL-2024/images/veroeffentl-archiv_fdm-zyklus_2022.png) <!-- width="250px" align="right" -->
+![Bild](../PS-GeschichteNeuzeit_2024/images/veroeffentl-archiv_fdm-zyklus_2022.png) <!-- width="250px" align="right" -->
 
 **Archivierung & Veröffentlichung**:
 
@@ -192,15 +206,15 @@ Denken Sie in allen Phasen Ihrer wissenschaftlichen Tätigkeit daran, sorgsam un
 - Bestehen rechtliche Besonderheiten in Bezug auf die Daten?
 - Sind Auswirkungen oder Einschränkungen in Bezug auf die Veröffentlichung bzw. Zugänglichkeit zu erwarten?
 - Auf welche Weise werden nutzungs- und urheberrechtliche Aspekte sowie Eigentumsfragen berücksichtigt?
-- Welches ist eine geeignete Infrastruktur für Veröffentlichung/die Langzeitarchivierung?
-- Welche formalen Vorgaben müssen Datensätze erfüllen?
+- Welches ist eine geeignete Infrastruktur für eine Veröffentlichung/die Langzeitarchivierung?
+- Welche formalen Vorgaben (z. B. Dateiformate, Metadaten) müssen Datensätze erfüllen?
 
 ********************************************************************************
 
 {{4-5}}
 ********************************************************************************
 
-![Bild](../WiWi_ESL-2024/images/nachnutzung-fdm-zyklus_2022.png) <!-- width="250px" align="right" -->
+![Bild](../PS-GeschichteNeuzeit_2024/images/nachnutzung-fdm-zyklus_2022.png) <!-- width="250px" align="right" -->
 
 **Nachnutzung**:
 
@@ -220,12 +234,12 @@ Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüf
 
 {{0-1}}
 ********************************************************************************
-![Bild](../WiWi_ESL-2024/images/fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).") <!-- width="550px" -->
+![Bild](../PS-GeschichteNeuzeit_2024/images/fair2.jpg "Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).") <!-- width="550px" -->
 ********************************************************************************
 
 {{1}}
 ********************************************************************************
-![Bild](../WiWi_ESL-2024/images/fair.jpg "Quelle: Pundir, Sangya https://commons.wikimedia.org/wiki/File:FAIR_data_principles.jpg [letzter Zugriff: 25.11.2021], CC-BY-SA-4.0.")
+![Bild](../PS-GeschichteNeuzeit_2024/images/fair.jpg "Quelle: Pundir, Sangya https://commons.wikimedia.org/wiki/File:FAIR_data_principles.jpg [letzter Zugriff: 25.11.2021], CC-BY-SA-4.0.")
 
 ********************************************************************************
 
@@ -267,7 +281,7 @@ Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher P
 ><p style="color:#9a047f">**Es mag Ihnen trivial erscheinen, aber die strukturierte Ordner- und Dateibenennung und die Versionierung Ihrer Dateien sind wichtige erste Schritte im Datenmanatement!**👣 </p>
 </div>
 
-<center><img src="../WiWi_ESL-2024/images/Comic_Datenverlust_v2_2022_web.jpg" alt="Comic zum Thema Datenverlust"></center>
+<center><img src="../PS-GeschichteNeuzeit_2024/images/Comic_Datenverlust_v2_2022_web.jpg" alt="Comic zum Thema Datenverlust"></center>
 
 <div style="text-align:center">
 <P><SMALL>Illustration: Cleo Michelsen</SMALL></P>
@@ -379,7 +393,7 @@ Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher P
 **Beispiel für eine Ordnerstruktur**
 
 <center>
-  <img src="../WiWi_ESL-2024/images/Abb_OrdnerstrukturArchproject_2022_bp.png" alt="example folder hirarchy">
+  <img src="../PS-GeschichteNeuzeit_2024/images/Abb_OrdnerstrukturArchproject_2022_bp.png" alt="example folder hirarchy">
     <sub style="text-align: right;">Provided by Oliver Nakoinz</sub>
 </center>
 
@@ -413,7 +427,7 @@ Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher P
 {{0-1}}
 ********************************************************************************
 
-<center><img src="../WiWi_ESL-2024/images/Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg" alt="Comic zur Dateibenennung" width="80%"></center>
+<center><img src="../PS-GeschichteNeuzeit_2024/images/Comic_Dateibenennung_v2_2022-04-14_CM_web.jpg" alt="Comic zur Dateibenennung" width="80%"></center>
 
 ********************************************************************************
 
@@ -490,7 +504,7 @@ Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher P
 ********************************************************************************
 **Beispiel für Versionsangaben innerhalb eines Dokuments:**
 
-<img src="../WiWi_ESL-2024/images/Versionierung-rda.png" alt="Version Information inside a document">
+<img src="../PS-GeschichteNeuzeit_2024/images/Versionierung-rda.png" alt="Version Information inside a document">
 
 Have a look here: [Principles and best practices in data versioning for all data sets big and small](https://www.rd-alliance.org/group/data-versioning-wg/outcomes/principles-and-best-practices-data-versioning-all-data-sets-big)
 
@@ -503,7 +517,7 @@ Have a look here: [Principles and best practices in data versioning for all data
 
 **Beispiel für ein dokumentiertes Versionierungsschema:**
 
-<img src="../WiWi_ESL-2024/images/OstData_Versionierungsschema.png" alt="Beispiel Versionierungschema">
+<img src="../PS-GeschichteNeuzeit_2024/images/OstData_Versionierungsschema.png" alt="Beispiel Versionierungschema">
 
 Have a look here: [Zenodo](https://zenodo.org/record/6076538#.Y4pE63bMJPa)
 
@@ -514,7 +528,7 @@ Have a look here: [Zenodo](https://zenodo.org/record/6076538#.Y4pE63bMJPa)
 
 **Hmmm, wie finden wir das denn...?**
 
-![Tweet](../WiWi_ESL-2024/images/Tweet_BuMiFi_Dateinamen.jpg)
+![Tweet](../PS-GeschichteNeuzeit_2024/images/Tweet_BuMiFi_Dateinamen.jpg)
 
 ********************************************************************************
 
@@ -543,7 +557,7 @@ Link to OpenOlat: [Link]
 Lecturer(s): [Name(s)]
 
 # FOLDERS
-All files related to the project are sstored in folder ***AnyStudyProject***, 
+All files related to the project are stored in folder ***AnyStudyProject***, 
 with content organized into subfolders as follows:
 
 – **RawData**: All raw data goes into this folder, subfolders organized by date if applicable
@@ -824,20 +838,27 @@ style="width: 20%; max-width: 800px; float:right"
 # Aktuelles 🆕
 
 - **Forschungsförderer (DFG, BMBF, EU)** legen zunehmend Wert auf ein gutes Forschungsdatenmanagement und fordern z. B. den Nachweis entsprechender Planungen (DMPs).
-- **Aufbau einer Nationalen Forschungsdateninfrastruktur (NFDIs)**: Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kompetenz- und Infrastrukturnetzwerk, das die Bereitstellung und Erschließung von Forschungsdaten für die Wissenschaft sicherstellen soll.
+- **Aufbau einer Nationalen Forschungsdateninfrastruktur (NFDIs)**: Finanziert durch Bund und Länder entsteht derzeit ein bundesweit verteiltes Kompetenz- und Infrastrukturnetzwerk, das die Bereitstellung und Erschließung von Forschungsdaten für die Wissenschaft sicherstellen soll. ***Weitere Infos***: https://www.nfdi.de/ 
+- **Aufbau einer Landesinitiative zum Foschungsdatenmanagement in Schleswig-Holstein**: Die Hochschulen und Forschungseinrichtungen in Schleswig-Holstein haben sich zusammengeschlossen, um eine Landesinitiative für das Forschungsdatenmanagement (FDM) zu starten. Diese Initiative möchte kooperative Lösungen, die Schaffung gemeinsamer Infrastrukturen und den Kompetenzaufbau im Land fördern. ***Weitere Infos***: https://fdm-sh.de/de/
 
 {{1}}
 ********************************************************************************
+>**Kurzer Rechercheauftrag: Welches Konsortium der NFDI deckt Ihre Wissenschaftsdisziplin ab?**
 
-  - **Für Ihren Fachbereich: [BERD4NFDI (Business, Economic, and Related Data)](https://www.berd-nfdi.de/)**
+********************************************************************************
 
-<iframe src="https://www.berd-nfdi.de/" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+{{2}}
+********************************************************************************
+
+**Für Ihren Fachbereich: [NFDI4Memory](https://4memory.de/)**
+
+<iframe src="https://4memory.de/" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ********************************************************************************
 
 # Berufliche Perspektiven 👨🏽‍💻
 
-> Mit wissenschaftlicher Expertise ***und*** guten Kenntnissen im Bereich des Datenmanagements entstehen zusätzliche berufliche Perspektiven nicht nur in den Fachbereichen, sondern auch in zentralen Einrichtungen, wie Rechenzentren oder Universitätsbibliotheken.
+> Mit wissenschaftlicher Expertise ***und*** guten Kenntnissen im Bereich des Datenmanagements entstehen zusätzliche berufliche Perspektiven nicht nur im Fachbereich selbst, sondern auch in zentralen Einrichtungen, wie Rechenzentren und/oder Universitätsbibliotheken sowie in Initiativen, wie der NFDI, den Landesinitiativen zum FDM oder Datenkompetezzentren.
 >
 > Mögliche Berufsbezeichnungen für diese Tätigkeitsbereiche sind z. B.:
 >
@@ -845,7 +866,17 @@ style="width: 20%; max-width: 800px; float:right"
 > * Data Curator und/oder
 > * Data Collector
 >
-> Hierfür sind gute Kenntnisse und Fähigkeiten im Umgang mit digitalen Daten erforderlich, die über rein fachliche Fragestellungen hinaus gehen. Momentan fehlt in den meisten Fachbereichen eine formale Ausbildung in diesem Bereich.
+> Hierfür sind gute Kenntnisse und Fähigkeiten im Umgang mit digitalen Daten erforderlich, die über rein fachliche Fragestellungen hinaus gehen. 
+>
+>Momentan fehlt in den meisten Fachbereichen eine formale Ausbildung in diesem Bereich!
+
+{{1}}
+********************************************************************************
+Eine beispielhafte Stellenausschreibung:
+
+<iframe src="https://karriere.hs-emden-leer.de/stellenangebote/jobliste/bib-38" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+********************************************************************************
 
 # FDM@CAU ✨
 
@@ -856,7 +887,7 @@ Gemeinsam arbeiten, beraten und unterstützen wir zum Thema.
 Kontakte und Informationen zum FDM an der CAU finden Sie hier: https://www.fdm.uni-kiel.de/
 
 <div style="float:right; width:40%;">
-  <img src="../WiWi_ESL-2024/images/rdmCAU.png" alt="rdm@CAU">
+  <img src="../PS-GeschichteNeuzeit_2024/images/rdmCAU.png" alt="rdm@CAU">
 </div>
 
 ## Literaturverwaltung 📚
@@ -867,7 +898,7 @@ Eine **Literaturverwaltungssoftware** hilft Ihnen, die für Ihre Arbeiten genutz
 ***
 Das Rechenzentrum stellt Ihnen eine Citavi-Campuslizenz zur Verfügung:
 
-![Bild](../WiWi_ESL-2024/images/citavi-RZ.jpg)
+![Bild](../PS-GeschichteNeuzeit_2024/images/citavi-RZ.jpg)
 
 https://www.rz.uni-kiel.de/de/angebote/software/citavi/citavi
 
@@ -877,7 +908,7 @@ https://www.rz.uni-kiel.de/de/angebote/software/citavi/citavi
 ***
 An der Universitätsbibliothek finden Sie Kurse zu citavi sowie verschiedenes Selbstlernmaterial:
 
-![Bild](../WiWi_ESL-2024/images/citavi-UB.jpg)
+![Bild](../PS-GeschichteNeuzeit_2024/images/citavi-UB.jpg)
 
 https://www.ub.uni-kiel.de/de/beratung-kurse/Kurse/c3-12.html
 
@@ -885,12 +916,12 @@ https://www.ub.uni-kiel.de/de/beratung-kurse/Kurse/c3-12.html
 
 ## Opendata@CAU 🔓
 
-![Bild](../WiWi_ESL-2024/images/open-data-kiel.png)
+![Bild](../PS-GeschichteNeuzeit_2024/images/open-data-kiel.png)
 
 <iframe src="https://opendata.uni-kiel.de/" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 # Herzlichen Dank! 🎉
-![Bild](../WiWi_ESL-2024/images/rdmCAU.png) <!-- width="250px" align="right" -->
+![Bild](../PS-GeschichteNeuzeit_2024/images/rdmCAU.png) <!-- width="250px" align="right" -->
 
 <br>
 <br>
