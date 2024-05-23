@@ -311,29 +311,6 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 <div style="page-break-after: always;"></div>
 
-
-# Nutzen von FDM 🧚‍♀️
-
-Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher Praxis~~ (GWP)**. Inwiefern kann FDM zu GWP beitragen? Welchen Nutzen kann ein gutes Forschungsdatenmanagement darüber hinaus haben?
-
-{{1}}
-********************************************************************************
->**Gutes Forschungsdatenmanagement trägt bei zu...**
->
-> - Reproduzierbarkeit von Ergebnissen (GWP)
-> - Rückverfolgbarkeit und Transparenz der Forschung (GWP)
-> - gute Auffindbarkeit von Daten, z. B. durch aussagekräftige Benennung und beschreibende Metadaten
-> - Wissenserhalt – Daten sollen unabhängig von einzelnen Menschen, Projekten oder Institutionen zugänglich sein (GWP)
-> - Erleichterung der Zusammenarbeit
-> - Vorbeugung von Datenverlusten
-> - Schonung von Resourcen
-> - Transfer und Nachnutzung der Daten in zukünftigen Projekte
-> - Erhöhung der Sichtbarkeit der eigenen Arbeit durch Forschungsdatenzitation
-> - Erfüllung von Auflagen der Drittmittelgeber
-> - ….
-
-********************************************************************************
-
 # Erste Schritte 👣
 
 >Die Maßnahmen im Forschungsdatenmanagement dienen der Verbesserung der Auffindbarkeit und Nachvollziehbarkeit von Forschungsdaten sowie der Vermeidung von Datenverlusten mit dem Ziel die (personanunabhängige) **Nachnutzbarkeit** von Forschungsdaten zu erhöhen.
@@ -902,6 +879,36 @@ style="width: 20%; max-width: 800px; float:right"
 *******
 
 <div style="page-break-after: always;"></div>
+
+# Movie-time 📽️
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+# Nutzen von FDM 🧚‍♀️
+Lassen sich die im Snafu-Video gezeigten Probleme auf Ihren Fachbereich übertragen?
+
+Gutes Forschungsdatenmanagement gilt als ein Teil **~~guter wissenschaftlicher Praxis~~ (GWP)**. 
+
+Inwiefern kann FDM zu GWP beitragen? Welchen Nutzen kann ein gutes Forschungsdatenmanagement darüber hinaus (z. B. für das Individuum/die Gesellschaft) haben?
+
+{{1}}
+********************************************************************************
+>**Gutes Forschungsdatenmanagement trägt bei zu...**
+>
+> - Reproduzierbarkeit von Ergebnissen (GWP)
+> - Rückverfolgbarkeit und Transparenz der Forschung (GWP)
+> - gute Auffindbarkeit von Daten, z. B. durch aussagekräftige Benennung und beschreibende Metadaten
+> - Wissenserhalt – Daten sollen unabhängig von einzelnen Menschen, Projekten oder Institutionen zugänglich sein (GWP)
+> - Erleichterung der Zusammenarbeit
+> - Vorbeugung von Datenverlusten
+> - Schonung von Resourcen
+> - Transfer und Nachnutzung der Daten in zukünftigen Projekte
+> - Erhöhung der Sichtbarkeit der eigenen Arbeit durch Forschungsdatenzitation
+> - Erfüllung von Auflagen der Drittmittelgeber
+> - ….
+
+********************************************************************************
 
 # Aktuelles 🆕
 
