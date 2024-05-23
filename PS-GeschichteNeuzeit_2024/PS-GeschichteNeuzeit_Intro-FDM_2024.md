@@ -37,7 +37,7 @@ logo: https://github.com/RDM4CAU/Demos/raw/main/Frauenvortragsmarathon2024/image
 >
 > ***Britta Petersen***, [Zentrales Forschungsdatenmanagement](https://www.datamanagement.uni-kiel.de/de)
 >
-> TinyURL zu diesem Dokument: 
+> TinyURL zu diesem Dokument: https://tinyurl.com/FDM-2024
 
 <div style="page-break-after: always;"></div>
 
