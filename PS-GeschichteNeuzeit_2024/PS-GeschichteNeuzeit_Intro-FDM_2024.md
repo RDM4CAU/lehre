@@ -10,7 +10,7 @@ comment: Begleitende Seminarsitzung im Rahmen der Veranstaltung [Projektseminar 
 
 licence: cc-by
 
-logo: https://github.com/RDM4CAU/Demos/raw/main/Frauenvortragsmarathon2024/images/cau-norm-en-lilagrey-rgb.png
+icon: https://github.com/RDM4CAU/Demos/raw/main/Frauenvortragsmarathon2024/images/cau-norm-en-lilagrey-rgb.png
 
 @style
 
