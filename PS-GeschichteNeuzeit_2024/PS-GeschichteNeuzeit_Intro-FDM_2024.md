@@ -627,7 +627,7 @@ last updated: xxxx.xx.xx
 ***********
 
 <div style="width:40%;">
-  <img src="../WiWi_ESL-2024/images/doi_logo.jpg" alt="doi">
+  <img src="../PS-GeschichteNeuzeit_2024/images/doi_logo.jpg" alt="doi">
     <sub style="text-align: right;">The DOI® System ISO 26324</sub>
 </div>
 
@@ -637,7 +637,7 @@ last updated: xxxx.xx.xx
 ******************
 
 <div style="width:50%;">
-  <img src="../WiWi_ESL-2024/images/Temperature_K.jpg" alt="kelvin">
+  <img src="../PS-GeschichteNeuzeit_2024/images/Temperature_K.jpg" alt="kelvin">
     <sub style="text-align: right;">Temperature in Kelvin 364,07 K ≈ 42,6º C</sub>
 </div>
 
@@ -646,25 +646,25 @@ last updated: xxxx.xx.xx
 {{4-5}}
 *******************
 
-<img src="../WiWi_ESL-2024/images/calender.png" alt="calender">
+<img src="../PS-GeschichteNeuzeit_2024/images/calender.png" alt="calender">
 
 *******************
 
 {{5-6}}
 *******************
 
-<img src="../WiWi_ESL-2024/images/wetterwarte.png" alt="wetterwarte">
+<img src="../PS-GeschichteNeuzeit_2024/images/wetterwarte.png" alt="wetterwarte">
 
 *******************
 
 {{6-7}}
 *************
 
-<img src="../WiWi_ESL-2024/images/ROR.jpg" alt="ROR">
+<img src="../PS-GeschichteNeuzeit_2024/images/ROR.jpg" alt="ROR">
 
 ---
 
-<img src="../WiWi_ESL-2024/images/dwd.jpg" alt="dwd logo">
+<img src="../PS-GeschichteNeuzeit_2024/images/dwd.jpg" alt="dwd logo">
 
 *******************
 
@@ -788,7 +788,7 @@ Origin, Location and Meaning of Data
 **Traceability**
 
 <div style="width:100%;">
-  <img src="../WiWi_ESL-2024/images/traceability.png" alt="figures hugging">
+  <img src="../PS-GeschichteNeuzeit_2024/images/traceability.png" alt="traceablility">
     <sub style="text-align: right;"></sub>
 </div>
 
@@ -802,7 +802,7 @@ Origin, Location and Meaning of Data
 
 {{0-1}}
 *********
-![image](images/datadocumentation.png) <!--
+![image](../PS-GeschichteNeuzeit_2024/images/FragezeichenTyp.jpg) <!--
 style="width: 20%; max-width: 800px; float:right"
 -->
 
@@ -833,7 +833,6 @@ style="width: 20%; max-width: 800px; float:right"
 *******
 
 <div style="page-break-after: always;"></div>
-
 
 # Aktuelles 🆕
 
