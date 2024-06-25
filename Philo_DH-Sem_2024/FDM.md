@@ -99,7 +99,7 @@ Um Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachpr
 
 {{0-1}}
 ********************************************************************************
-![Bild](../WiWi_ESL-2024/images/fair2.jpg "Illustration: Patrick Hochstenbach in [Engelhardt, Claudia et. al. (2021)](https://univerlag.uni-goettingen.de/bitstream/handle/3/isbn-978-3-86395-539-7/Engelhardt_FAIR.pdf?sequence=1&).") <!-- width="550px" -->
+![Bild](../Philo_DH-Sem_2024/images/fair2.jpg "Illustration: Patrick Hochstenbach in [Engelhardt, Claudia et. al. (2021)](https://univerlag.uni-goettingen.de/bitstream/handle/3/isbn-978-3-86395-539-7/Engelhardt_FAIR.pdf?sequence=1&).") <!-- width="550px" -->
 ********************************************************************************
 
 {{1}}
@@ -292,7 +292,7 @@ Tim Berners-Lee selbst schreibt zu diesen "Regeln":
 
 # FDM@CAU ✨
 <div style="float:right; width:40%;">
-  <img src="../WiWi_ESL-2024/images/rdmCAU.png" alt="rdm@CAU">
+  <img src="../Philo_DH-Sem_2024/images/rdmCAU.png" alt="rdm@CAU">
 </div>
 
 Das **Zentrale Forschungsdatenmanagement** der CAU besteht aus Mitarbeitenden des Rechenzentrums, der Universitätsbibliothek und der Verwaltung.
@@ -330,7 +330,7 @@ Kontakte und Informationen zum FDM an der CAU finden Sie hier: https://www.fdm.u
 ***
 Das Rechenzentrum stellt Ihnen eine Citavi-Campuslizenz zur Verfügung:
 
-![Bild](../WiWi_ESL-2024/images/citavi-RZ.jpg)
+![Bild](../Philo_DH-Sem_2024/images/citavi-RZ.jpg)
 
 https://www.rz.uni-kiel.de/de/angebote/software/citavi/citavi
 
@@ -340,7 +340,7 @@ https://www.rz.uni-kiel.de/de/angebote/software/citavi/citavi
 ***
 An der Universitätsbibliothek finden Sie Kurse zu citavi sowie verschiedenes Selbstlernmaterial:
 
-![Bild](../WiWi_ESL-2024/images/citavi-UB.jpg)
+![Bild](../Philo_DH-Sem_2024/images/citavi-UB.jpg)
 
 https://www.ub.uni-kiel.de/de/beratung-kurse/Kurse/c3-12.html
 
@@ -348,7 +348,7 @@ https://www.ub.uni-kiel.de/de/beratung-kurse/Kurse/c3-12.html
 
 ## Opendata@CAU 🔓
 
-![Bild](../WiWi_ESL-2024/images/open-data-kiel.png)
+![Bild](../Philo_DH-Sem_2024/images/open-data-kiel.png)
 
 <iframe src="https://opendata.uni-kiel.de/" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
@@ -361,7 +361,7 @@ https://www.ub.uni-kiel.de/de/beratung-kurse/Kurse/c3-12.html
 <iframe src="https://igsn.uni-kiel.de/de" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 # Herzlichen Dank! 🎉
-![Bild](../WiWi_ESL-2024/images/rdmCAU.png) <!-- width="250px" align="right" -->
+![Bild](../Philo_DH-Sem_2024/images/rdmCAU.png) <!-- width="250px" align="right" -->
 
 <br>
 <br>
